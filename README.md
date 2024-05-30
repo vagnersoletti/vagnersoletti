@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá! 👋
 
-<!--
-**vagnersoletti/vagnersoletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Here are some ideas to get you started:
+<p align="left"> 
+  Eu sou Vagner Luis Soletti, desenvolvedor web com experiência em <strong>PHP</strong> e <strong>ReactJS</strong>.
+  Atualmente trabalho como desenvolvedor de software na empresa <a href="https://sunsbrasil.com.br/" target="_blank" title="Suns Brasil">Suns Brasil</a>.
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="mailto:vagnersoletti@gmail.com" target="_blank" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/vagnersoletti/" target="_blank" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"/></a>
+</p>
