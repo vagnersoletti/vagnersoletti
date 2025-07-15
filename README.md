@@ -3,9 +3,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Eu sou Vagner Luis Soletti, desenvolvedor web com experiência em <strong>PHP</strong> e <strong>ReactJS</strong>.
-  Atualmente trabalho como desenvolvedor de software na empresa <a href="https://sunsbrasil.com.br/" target="_blank" title="Suns Brasil">Suns Brasil</a>.
-  
+👨‍💻 Desenvolvedor de software desde 2007, com forte atuação em arquitetura de sistemas, aplicações web e microserviços. Tenho experiência em liderança técnica e desenvolvimento hands-on, sempre buscando entregar soluções eficientes, escaláveis e seguras.
+</p>
+
+<p align="left"> 
+🚀 Atualmente, estou focado em aplicações modernas utilizando ReactJS, Golang e PHP, com infraestrutura baseada em Docker, AWS e práticas de DevOps. Também atuo com criptografia e segurança de dados, garantindo integridade e confiabilidade nas soluções que desenvolvo.
+</p>
+
+<p align="left"> 
+💡 Acredito em código limpo, boas práticas de engenharia e inovação como motor para gerar valor real para negócios e pessoas.  
 </p>
 
 <p align="left">
